@@ -1,0 +1,39 @@
+Finding: Vendor master updates were performed without dual approval, violating maker-checker controls.
+Finding: Several vendor bank account changes lacked supporting approval documentation.
+Finding: Audit trail logs were incomplete for vendor modifications in the ERP system.
+
+Finding: Quarterly access reviews were not performed for critical applications.
+Finding: Privileged accounts were not reviewed monthly, increasing risk of misuse.
+Finding: Multiple users had excessive access privileges beyond job requirements.
+
+Finding: Segregation of duties conflicts identified between vendor creation and payment approval roles.
+Finding: Same user had rights to create vendors and initiate payments.
+Finding: No automated SoD conflict detection mechanism in place.
+
+Finding: Payment transactions exceeding approval thresholds were processed without additional authorization.
+Finding: Duplicate payments detected due to lack of validation controls.
+Finding: No alerts configured for high-risk transactions.
+
+Finding: Change management documentation missing for multiple production deployments.
+Finding: Emergency changes were not retrospectively approved.
+Finding: No evidence of testing for several critical system updates.
+
+Finding: Audit evidence for approvals was not retained as per policy requirements.
+Finding: Manual approvals were not digitized or centrally stored.
+Finding: Inconsistent documentation practices observed across departments.
+
+Finding: Vendor risk assessments were not performed for several high-risk vendors.
+Finding: Contracts lacked compliance and audit clauses.
+Finding: Due diligence documentation missing for third-party vendors.
+
+Finding: User provisioning lacked proper approval documentation.
+Finding: Delays observed in deprovisioning terminated users.
+Finding: Inactive accounts remained active beyond policy limits.
+
+Finding: Audit logs were not reviewed periodically for suspicious activity.
+Finding: Log retention periods were not aligned with regulatory requirements.
+Finding: Lack of centralized logging for critical systems.
+
+Finding: Disaster recovery testing was not conducted within the required timeframe.
+Finding: Backup procedures were not validated regularly.
+Finding: Recovery objectives were not clearly defined or documented.

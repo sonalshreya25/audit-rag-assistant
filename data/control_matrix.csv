@@ -1,0 +1,18 @@
+Control,Description,Risk_Category,Frequency,Owner
+Dual Approval,Two independent approvals required for critical actions,Operational Risk,Per Transaction,Finance
+Access Review,Quarterly validation of user access rights,Access Control,Quarterly,IT Security
+Audit Evidence,All approvals must be documented and retained,Compliance,Continuous,Audit Team
+Segregation of Duties,Ensure conflicting roles are separated,Operational Risk,Continuous,Risk Management
+Privileged Access Review,Monthly review of admin-level accounts,Access Control,Monthly,IT Security
+Vendor Risk Assessment,Evaluate vendor risk before onboarding,Third Party Risk,Annual,Procurement
+Payment Threshold Approval,Additional approval for high-value transactions,Financial Risk,Per Transaction,Finance
+Change Management Approval,All changes must be approved and documented,IT Risk,Per Change,IT Team
+Incident Reporting,All incidents must be logged and investigated,Operational Risk,Continuous,Operations
+Data Retention Policy,Ensure records are stored as per compliance rules,Compliance,Continuous,Data Governance
+User Provisioning Control,Formal approval required before granting access,Access Control,Per Request,IT
+Deprovisioning Control,Immediate removal of access after termination,Access Control,Per Event,HR/IT
+Logging and Monitoring,Maintain and review system logs,IT Risk,Continuous,IT Security
+Disaster Recovery Testing,Periodic validation of recovery processes,IT Risk,Annual,IT Operations
+Encryption Control,Ensure sensitive data is encrypted,Security,Continuous,Security Team
+Duplicate Payment Check,Prevent duplicate transactions,Financial Risk,Per Transaction,Finance
+High-Risk Transaction Alerts,Trigger alerts for suspicious activity,Fraud Risk,Continuous,Fraud Team

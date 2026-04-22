@@ -1,0 +1,47 @@
+Vendor onboarding must include dual approval from procurement and finance teams before activation in the system.
+Any modification to vendor bank account details requires maker-checker validation and documented approval.
+All vendor changes must be logged with timestamp, user ID, and approval reference.
+
+Access to financial systems must follow least privilege principles and be approved by system owners.
+Quarterly access reviews must be performed and documented for all critical applications.
+Privileged access must be reviewed monthly and monitored for unusual activity.
+
+Segregation of duties must ensure that no individual has end-to-end control over financial transactions.
+Users responsible for vendor creation must not have rights to approve payments.
+System roles must be reviewed periodically to ensure no SoD conflicts exist.
+
+All approvals must be documented and retained for audit for a minimum of 7 years.
+Electronic approvals must include audit trails such as timestamps and approver identity.
+Manual approvals must be scanned and stored in a centralized repository.
+
+Payment processing must include validation controls to prevent duplicate or fraudulent transactions.
+Any payment exceeding threshold limits must require additional approval from senior management.
+Automated alerts must be triggered for high-risk transactions.
+
+Change management procedures must include approval, testing, and rollback planning before deployment.
+All production changes must be logged and reviewed periodically.
+Emergency changes must be documented and approved retrospectively.
+
+Data retention policies must ensure financial records are preserved securely and retrievable for audits.
+Sensitive data must be encrypted both in transit and at rest.
+Access to sensitive financial data must be restricted and monitored.
+
+Incident management processes must ensure all financial anomalies are reported and investigated.
+Root cause analysis must be documented for all major incidents.
+Corrective actions must be tracked and validated.
+
+Vendor risk assessments must be conducted prior to onboarding and periodically thereafter.
+High-risk vendors must undergo enhanced due diligence.
+Contracts must include clauses for compliance and audit rights.
+
+User provisioning must require formal request, approval, and validation before access is granted.
+Deprovisioning must occur immediately upon termination or role change.
+Inactive accounts must be disabled after 30 days.
+
+Audit logs must be maintained for all critical system activities.
+Logs must be reviewed periodically for suspicious activity.
+Log retention must comply with regulatory requirements.
+
+Backup and recovery procedures must ensure data integrity and availability.
+Periodic disaster recovery testing must be conducted.
+Recovery objectives must be defined and validated.
