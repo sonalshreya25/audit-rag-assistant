@@ -209,7 +209,7 @@ This project can be extended to:
 ```bash
 git clone https://github.com/YOUR_USERNAME/audit-rag-assistant.git
 cd audit-rag-assistant
-
+ 
 ```
 ### 2. Create a virtual Environment
 ```bash
